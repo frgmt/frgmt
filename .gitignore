@@ -1,0 +1,15 @@
+# -*- mode: gitignore; -*-
+
+.idea
+*.pyc
+*.lock
+*.js.map
+*.ini
+
+# exception
+!.gitkeep
+# Thumbnails
+._*
+# settings for vscode
+.devcontainer
+.vscode
