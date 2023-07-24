@@ -1,12 +1,12 @@
-.. table:: This is my table
-    :widths: 20 20 20 40
+.. |logo| image:: https://avatars.githubusercontent.com/u/43658304?v=4
+   :width: 200
 
 +------------------------+------------+----------+-------------------------------------------------------------------+
 | Header row, column 1   | Header 2   | Header 3 | Header 4                                                          |
 | (header rows optional) |            |          |                                                                   |
 +========================+============+==========+===================================================================+
 | body row 1, column 1   | column 2   | column 3 |                                                                   |
-+------------------------+------------+----------+    **aa**                                                         |
++------------------------+------------+----------+    **aa**    |logo|                                               |
 | body row 2             | Cells may s|          |                                                                   |
 +------------------------+------------+----------+-------------------------------------------------------------------+
 | body row 3             | Cells may  | - Table cells ddddddddddddddddddddddddddddddddddddddddddddddddddddddddd      |
